@@ -6,6 +6,7 @@ oauth2client
 pyTelegramBotAPI
 google-auth-oauthlib
 opencv-python-headless
+sentry_sdk
 Flask
 gunicorn
 Pillow
