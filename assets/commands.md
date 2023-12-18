@@ -3,6 +3,7 @@ food - This lets you take a note and picture about your food 😋
 drink - This lets you take a note and picture about your drink 🧉   
 activity - This lets you take a note and picture of an activity 🏋️  
 medication - This lets you take a note and picture of your medication 💊  
+mood - This lets you take a note and picture of your mood 🫠  
 poop - This lets you take a note and picture of your poop 💩  
 today - This sends you all entries from today 🫣  
 month - This sends you all entries from the month 👀  
